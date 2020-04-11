@@ -6,7 +6,7 @@ This is a class project aims at coming up with a simple, precise, and accurate w
 
 There are three folders providing more details in our main project, *code*, *image* and *data*
 
-### code
+### Code
 There are 4 R code files:
 *data.R*, *mlr.R*, *lasso.R* and *"multiplot.R"* in this folder. 
 
@@ -15,10 +15,10 @@ There are 4 R code files:
 * lasso.R uses Lasso method to do variable selection and constructs linear models to predict BodyFat%. 
 * multiplot.R works as a hearder file, which contains a plotting function helping us to make better graghs. 
 
-### image
+### Image
 This folder contains mainly the figures/images/tables produced in our analysis.
 
-### data
+### Data
 *BodyFat.csv* is the original 252 records of available measurements include age, weight, height, bmi, and various body circumference measurements. In particular, the variables listed below (from left to right in the data set) are: 
 
 Percent body fat from Siri's (1956) equation  
