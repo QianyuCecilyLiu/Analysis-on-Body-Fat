@@ -1,4 +1,4 @@
-# Analysis on Bodyfat project
+# Bodyfat data analysis project
 **Xi He**, **Cecily Liu**, **Fang Wang**
 
 This is a class project aims at coming up with a simple, precise, and accurate way of determining body fat percentae of males based on readily available clinical measurements. 
