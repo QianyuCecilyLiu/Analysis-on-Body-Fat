@@ -1,5 +1,5 @@
 # Analysis on Bodyfat project
-**Xi He**, **Cecily Liu**, ** Wang**
+**Xi He**, **Cecily Liu**, **Fang Wang**
 
 This is a class project aims at coming up with a simple, precise, and accurate way of determining body fat percentae of males based on readily available clinical measurements. 
 *BodyFat Analysis.ipynb* is an executive summary of the data analysis process and findings in Jupyter Notebook pattern. The result of analysis shows that the percentage of body fat of a male is strongly related with *Weight*, *Wrist* and *Abdomen*.
